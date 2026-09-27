@@ -1,0 +1,14 @@
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_1\bin\Debug\net10.0\bt_11.exe
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_1\bin\Debug\net10.0\bt_11.deps.json
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_1\bin\Debug\net10.0\bt_11.runtimeconfig.json
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_1\bin\Debug\net10.0\bt_11.dll
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_1\bin\Debug\net10.0\bt_11.pdb
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_1\obj\Debug\net10.0\bt_11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_1\obj\Debug\net10.0\bt_11.AssemblyInfoInputs.cache
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_1\obj\Debug\net10.0\bt_11.AssemblyInfo.cs
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_1\obj\Debug\net10.0\bt_11.csproj.CoreCompileInputs.cache
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_1\obj\Debug\net10.0\bt_11.dll
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_1\obj\Debug\net10.0\refint\bt_11.dll
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_1\obj\Debug\net10.0\bt_11.pdb
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_1\obj\Debug\net10.0\bt_11.genruntimeconfig.cache
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_1\obj\Debug\net10.0\ref\bt_11.dll

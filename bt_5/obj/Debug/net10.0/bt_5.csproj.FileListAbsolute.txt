@@ -1,0 +1,14 @@
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_5\bin\Debug\net10.0\bt_5.exe
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_5\bin\Debug\net10.0\bt_5.deps.json
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_5\bin\Debug\net10.0\bt_5.runtimeconfig.json
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_5\bin\Debug\net10.0\bt_5.dll
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_5\bin\Debug\net10.0\bt_5.pdb
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_5\obj\Debug\net10.0\bt_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_5\obj\Debug\net10.0\bt_5.AssemblyInfoInputs.cache
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_5\obj\Debug\net10.0\bt_5.AssemblyInfo.cs
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_5\obj\Debug\net10.0\bt_5.csproj.CoreCompileInputs.cache
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_5\obj\Debug\net10.0\bt_5.dll
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_5\obj\Debug\net10.0\refint\bt_5.dll
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_5\obj\Debug\net10.0\bt_5.pdb
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_5\obj\Debug\net10.0\bt_5.genruntimeconfig.cache
+D:\Son\Learning\BE_C#\buoi_2\buoi_2_baitap\bt_5\obj\Debug\net10.0\ref\bt_5.dll
